@@ -25,7 +25,7 @@ public class AppTest
 		}
 		else
 		{
-			System.out.println("Test Failed!");
+			System.out.println("Test Failed!, Try again");
 		}
 		driver.close();
 		}	
